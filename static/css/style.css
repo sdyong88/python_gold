@@ -1,0 +1,49 @@
+*{
+	width:1070px;
+	height: 0px auto;
+}
+
+#wrapper{
+	position: relative;
+  height: 400px;
+  width: 60%;
+  margin: 0 auto;
+  padding: 20px;
+}
+h1, button{
+  display:block;
+}
+
+#box{
+  width:670px;
+}
+form{
+  background:#33ccff;
+  margin: 0auto;
+  width: 150px;
+  padding:1em;
+  border:1px solid #CCC;
+  border-radius: 1em;
+  display: inline-block;
+}
+form div + div{
+  margin-top: 1em;
+}
+  label{
+    text-align: left;
+  }
+
+#boxtop{
+  display: inline-block;
+}
+input{
+  width: 150px;
+}
+
+textarea{
+  width: 600px;
+  height: 150px;
+}
+button{
+  width: 100px;
+}
